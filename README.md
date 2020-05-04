@@ -2,7 +2,7 @@
 Charlas vistas interesantes, que pueden ser útiles volver a ver
 
 # Frontend
-###Arquitectura
+### Arquitectura
 [José Antonio Suárez Guerrero - SOLID Frontend Architecture. Do we need it? Yes!](https://www.youtube.com/watch?v=Zct1kdBc3Os)
 
 # Insfraestructura
